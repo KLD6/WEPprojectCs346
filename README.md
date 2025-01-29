@@ -95,6 +95,7 @@ DELETE | /api/products/:id | Delete a product
 <li><strong>Developer:</strong> [BADER FAHAD ALMASOUD-443017986]</li>
 <li><strong>Developer:</strong> [KHALID NAFEA HOSAH-443016589]</li>
 <li><strong>Developer:</strong> [ABDULLAH HAMDAN ALDOSARI-444002393]</li>
+<li>GitHub Repository: [https://github.com/KLD6/WEPprojectCs346/]</li>
 </ul>
 </body>
 </html>
