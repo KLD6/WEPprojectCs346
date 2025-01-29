@@ -1,6 +1,6 @@
 <html>
 <body>
-<!--StartFragment--><html><head></head><body><h1>Product Management System (PMS) - GitHub Wiki</h1>
+<!--StartFragment--><html><head></head><body><h1>Product Management System (PMS)</h1>
 <h2>Introduction</h2>
 <p><strong>Product Management System (PMS)</strong> is a <strong>CRUD-based application</strong> built using <strong>Node.js, Express, MongoDB, and JavaScript</strong>. It allows users to <strong>Create, Read, Update, and Delete</strong> product records with real-time UI updates and search functionality.</p>
 <h3> <strong>Key Features</strong></h3>
